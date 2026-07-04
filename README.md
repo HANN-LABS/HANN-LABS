@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile/logo.svg" alt="HANN LABS" width="180"/>
+<img src="./logo.svg" alt="HANN LABS" width="180"/>
 
 # HANN LABS™
 
