@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://hannlabs.kro.kr/sitemap.xml
+Sitemap: https://hannworks.kro.kr/sitemap.xml
